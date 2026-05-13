@@ -169,4 +169,116 @@ All 10 pieces created in Autodesk. Each entry demonstrates composition, lighting
 
 ---
 
-[Back to home](./index)
+## Art-11: Wolverine
+
+![Art-11](./assets/images/autodesk/art-11.jpg)
+
+**Subject:** Wolverine in his classic yellow and black superhero costume, forward facing stance.
+
+**Composition:** Centered, forward facing pose with a dynamic sense of action. The figure fills the frame with confidence.
+
+**Lighting:** Strong backlighting from behind creates a dramatic halo effect, highlighting the character's silhouette.
+
+**Color:** Classic yellow and black comic palette with limited but impactful color range.
+
+**Style:** Cartoonish comic book aesthetic with bold outlines and clean rendering.
+
+---
+
+## Art-12: Robot Banker
+
+![Art-12](./assets/images/autodesk/art-12.png)
+
+**Subject:** A large imposing robot in a bank setting holding a briefcase, with a cheerful cashier in the background.
+
+**Composition:** Dynamic perspective emphasizing the robot's imposing size as it strides toward the viewer. The cashier in the background provides scale contrast.
+
+**Lighting:** Artificial light sources with soft highlights and shadows adding depth to the scene.
+
+**Color:** Warm browns and tans dominate, creating a stylized retro comic book aesthetic.
+
+**Style:** Retro comic book inspired with playful character design and strong perspective work.
+
+---
+
+## Art-13: Peaky Blinders
+
+![Art-13](./assets/images/autodesk/art-13.jpg)
+
+**Subject:** Two figures inspired by Peaky Blinders style, depicted in a stylized architectural setting with classic period attire.
+
+**Composition:** Balanced composition with both figures placed within a stylized architectural environment. The space between them creates narrative tension.
+
+**Lighting:** Relatively flat with subtle shading to define forms. Gentle and deliberate.
+
+**Color:** Muted tones with warmer hues creating visual interest against the architectural setting.
+
+**Style:** Blend of cartoonish and stylized realism with period inspired character design.
+
+---
+
+## Art-14: Rock Family
+
+![Art-14](./assets/images/autodesk/art-14.png)
+
+**Subject:** A stylized simplified rock like character with a smaller counterpart beside it.
+
+**Composition:** Centered and symmetrical, creating a sense of balance and stability between the two figures.
+
+**Lighting:** Simple yet effective, using shadows to define the forms without complex rendering.
+
+**Color:** Warm brown and tan hues dominate, giving the piece an earthy grounded feel.
+
+**Style:** Modern vector based design with a clean and graphic appearance.
+
+---
+
+## Art-15: Running Flame
+
+![Art-15](./assets/images/autodesk/art-15.jpg)
+
+**Subject:** A stylized anthropomorphic flame wearing sunglasses and running, with a trail of fire and motion lines emphasizing speed.
+
+**Composition:** Dynamic diagonal composition utilizing motion lines to create a strong sense of movement and energy.
+
+**Lighting:** Brightly and uniformly lit, keeping the illustration simple and clean.
+
+**Color:** Warm yellows and oranges dominate with a vibrant playful energy.
+
+**Style:** Cartoonish and vibrant with soft shading and outlines emphasizing a playful mood.
+
+---
+
+## Art-16: Moonlight Robot
+
+![Art-16](./assets/images/autodesk/art-16.jpg)
+
+**Subject:** A stylized geometric robot flying through the night sky, positioned against a full moon with pink clouds and stars.
+
+**Composition:** The robot is positioned against a full moon with the fantastical setting filling the frame. Clean silhouette work against the lunar backdrop.
+
+**Lighting:** A gradient of purples and pinks creates a dynamic lighting effect, emphasizing the contrast from the robot to the background.
+
+**Color:** Cool purples and pinks against the dark night sky with the bright moon as the focal contrast point.
+
+**Style:** Blend of comic book aesthetics and digital illustration with clean lines, bold outlines, and a limited color palette.
+
+---
+
+## Art-17: Fire Bull Rider
+
+![Art-17](./assets/images/autodesk/art-17.jpg)
+
+**Subject:** A stylized cartoonish figure made of fire riding a fire bull in a vibrant action scene.
+
+**Composition:** Dynamic composition with flames and figures creating strong directional movement across the frame.
+
+**Lighting:** Dramatic contrast between warm yellows and oranges of the fire against a darker background.
+
+**Color:** Warm palette dominated by yellows, oranges, and reds with dark background for contrast.
+
+**Style:** Bold with simple shapes and outlines for a playful high energy look.
+
+---
+
+[Back to home](./index) | [AI Generated Art](./ai-gen)

@@ -13,7 +13,7 @@ Digital artist, AI image engineer, and visual critic. I work in both traditional
 
 | Section | What's inside |
 |---|---|
-| Autodesk Originals | 10 pieces of original digital art showing composition, lighting, and color theory from the ground up |
+| Autodesk Originals | 17 pieces of original digital art showing composition, lighting, and color theory from the ground up |
 | AI Generated Art | 10 AI pieces with full prompt to output critique annotations |
 
 ## Skills demonstrated
