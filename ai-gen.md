@@ -171,4 +171,100 @@ Each entry shows the full prompt to output workflow with critique — exactly th
 
 ---
 
+## AI-11: Blue Cat
+
+![AI-11](./assets/images/ai-gen/sora-01.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** dark blue cartoon cat holding a wooden stick, simple background, clean illustration
+
+**What I see:** Centralized framing with the cat filling most of the frame. Soft even lighting with no distinct shadows. Limited palette of dark blue, brown, green, and blue eyes against a light tan background. Cartoonish style with thick outlines, simplified shapes, and flat colors.
+
+**What I'd change:** The simple background could use a gradient or subtle texture to give the scene more depth without distracting from the character.
+
+**Project context:** Sora exploration — testing how the model handles character consistency and simple object interaction in generated scenes.
+
+---
+
+## AI-12: Dusk Over the City
+
+![AI-12](./assets/images/ai-gen/sora-02.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** man standing by a window looking out over a cityscape with drones, sunset silhouette, warm tones
+
+**What I see:** Silhouette of the man in the foreground with a cityscape and sunset backdrop. Drones arranged in the sky create a futuristic atmosphere. Strong backlighting from the sunset with warm orange, purple, and brown tones dominating. Cartoonish flat illustration style with stylized line work.
+
+**What I'd change:** Adding more detail to the silhouette (like subtle rim light defining the man's features) would strengthen the contrast between foreground and background.
+
+**Project context:** Sora exploration — testing atmospheric scene generation, lighting, and environmental storytelling.
+
+---
+
+## AI-13: Storm Meditation
+
+![AI-13](./assets/images/ai-gen/sora-03.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** man meditating and praying in a storm, energy emanating from his chest, lightning and rain
+
+**What I see:** Symmetrical centered composition with the figure as the anchor. Dramatic lighting with the main source coming from the energy circle on the chest and lightning flashes. Predominantly cool blues and blacks with the glowing energy as the focal point. Stylized comic book inspired art with thick outlines.
+
+**What I'd change:** The storm background could benefit from more depth layering — the lightning and rain feel flat against the dark sky. Adding distant clouds would create atmosphere.
+
+**Project context:** Sora exploration — testing how the model handles dramatic lighting, weather elements, and character centered storytelling in single frames.
+
+---
+
+## AI-14: Flag Bearer
+
+![AI-14](./assets/images/ai-gen/sora-04.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** person standing on a hilltop holding a flag, dramatic sunset background, vibrant colors
+
+**What I see:** Person centered with the flag to the right against a dramatic sunset backdrop. Strong backlighting from the sunset creates silhouettes and warm orange hues. Vibrant cartoonish palette of blues, oranges, and yellows with limited shading. Graphic comic book inspired style with thick outlines.
+
+**What I'd change:** The flag could use more detail or movement lines to suggest wind — it reads as static against the otherwise dynamic scene.
+
+**Project context:** Sora exploration — testing the model's ability to compose heroic scenes with strong silhouette work and atmospheric lighting.
+
+---
+
+## AI-15: Night Vision
+
+![AI-15](./assets/images/ai-gen/sora-05.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** man relaxing in a chair outdoors at night, gazing at a celestial symbol, lake and hills in background
+
+**What I see:** Medium shot with the man in the foreground and a celestial symbol centrally placed above him. A landscape of lake and hills stretches in the background. Soft ambient lighting from the celestial symbol casts a glow onto the man's face and shirt. Deep blues for the night sky and landscape with a yellow shirt providing warm contrast. Simplified flat illustration with defined outlines.
+
+**What I'd change:** The celestial symbol could be more defined and luminous — it currently reads as a shape rather than a magical or spiritual focal point.
+
+**Project context:** Sora exploration — testing nighttime scene generation, ambient lighting, and reflective mood.
+
+---
+
+## AI-16: Pepe the Mage
+
+![AI-16](./assets/images/ai-gen/sora-06.jpg)
+
+**Tool:** Sora (OpenAI video generation — extracted frame)
+
+**Prompt:** Pepe the Frog character dressed in a hooded robe, holding a glowing energy sphere, tech inspired background with circuit designs
+
+**What I see:** The character centered in frame with a tech inspired background of circuit designs and glowing elements. Lighting comes primarily from the blue glowing sphere, illuminating Pepe's face and hands. Blues and greens dominate the palette with a slightly textured painted look. Digital illustration with an almost matte painting quality to the rendering.
+
+**What I'd change:** The hood obscures too much of the face — pulling the hood back slightly would let the character's expression carry more of the scene's emotional weight.
+
+**Project context:** Sora exploration — testing character driven fantasy scenes with magical elements and atmospheric lighting.
+
+---
+
 [Back to home](./index) | [Autodesk Originals](./autodesk)
