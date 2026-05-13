@@ -3,22 +3,36 @@ layout: default
 title: Home
 ---
 
-# VINTAGE ✝ — Digital Art Portfolio
+# VINTAGE ✝ — Visual Portfolio
 
-**Digital artist | Visual critic** 
+**Digital artist | AI image engineer | Visual critic**
 
-I create digital art in Autodesk with a focus on composition, lighting, color theory, and visual storytelling. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's understanding of what makes a compelling image.
+I work in both traditional digital art (Autodesk) and AI-assisted image generation. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's visual understanding of composition, lighting, color, and style.
 
 ---
 
 ## Portfolio
 
-All [**10 pieces**](./autodesk) are original digital art created in Autodesk, demonstrating:
+| Section | What's inside |
+|---|---|
+| [**🎨 Autodesk Originals**](./autodesk) | 10 pieces of original digital art — composition, lighting, color theory from the ground up |
+| [**🤖 AI-Generated Art**](./ai-gen) | 8 AI pieces with full prompt→output→critique annotations |
 
-- **Composition** — framing, balance, visual hierarchy
-- **Lighting** — mood, direction, shadow work
-- **Color** — palette choices, harmony, contrast
-- **Style** — range and versatility
+---
+
+## Skills demonstrated
+
+**Visual fundamentals:**
+- Composition, framing, visual hierarchy
+- Lighting, mood, shadow work
+- Color theory, palette selection, contrast
+- Character design, narrative scenes, abstract concepts
+
+**AI image generation:**
+- Prompt engineering for specific visual outcomes
+- Iteration and refinement workflow
+- Critical analysis of what works and what doesn't
+- Cross-tool fluency (Flux, Midjourney-style, Grok Imagine)
 
 ---
 
@@ -27,11 +41,11 @@ All [**10 pieces**](./autodesk) are original digital art created in Autodesk, de
 To train an AI's visual understanding, you need someone who can:
 
 - **See** what works and what doesn't in any image
-- **Articulate** why — in precise visual language
-- **Create** across different styles and techniques
-- **Critique** with specificity so training data captures real nuance
+- **Articulate** why — in terms of composition, lighting, color, and style
+- **Generate** examples that demonstrate specific visual concepts
+- **Critique** with precision so training data captures real visual nuance
 
-Digital art fundamentals transfer directly to evaluating AI image outputs — same principles, same vocabulary.
+Each piece in this portfolio includes a written analysis demonstrating that critical eye.
 
 ---
 
