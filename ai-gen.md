@@ -218,4 +218,27 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 ---
 
+## AI-10 — DP x GenLayer Mascot Fusion
+
+![AI-10](./assets/images/ai-gen/ai-10.jpg)
+
+**🧠 Prompt:** [mushroom-headed character with white spots, small robot cat perched on mushroom top, Vintage 3030 patch, brown collared shirt with glowing neon symbol, reimagined as futuristic space explorer with purple/blue glowing accents, lightbulb idea icon, starry space background]
+
+**Tool:** Flux 2 Pro (reference-guided generation — character consistency)
+
+**📝 Analysis:**
+
+| Aspect | Assessment |
+|---|---|
+| **Composition** | Front-facing static pose with the character centered — the small robot cat on the mushroom cap creates a nested character dynamic, adding visual interest at the top of the frame |
+| **Lighting** | Soft, even lighting with subtle shading on facial features and clothing — neon symbol provides a focal glow point on the chest |
+| **Color** | Yellow mushroom cap with white spots, brown character skin, dark brown shirt, with purple/blue glowing accents — warm earthy base with cool neon contrast |
+| **Style** | Digital illustration with cartoon/NFT art aesthetic — clean lines, limited desaturated palette with strategic neon pops |
+| **What succeeds** | The dual-character concept (mushroom person + robot cat on head) creates a memorable, layered identity — instantly recognizable as a mascot |
+| **What I'd change** | The expression reads as slightly concerned/contemplative — a more confident expression would match the space explorer theme better |
+
+**Project context:** Fusion piece combining the artist's personal mascot (dp character) with GenLayer's visual identity — demonstrating ability to blend two distinct brand aesthetics into a cohesive character design.
+
+---
+
 [*Back to home*](./index) | [*Autodesk Originals*](./autodesk)
