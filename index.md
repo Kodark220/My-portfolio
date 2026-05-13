@@ -3,21 +3,22 @@ layout: default
 title: Home
 ---
 
-# VINTAGE ✝ | Visual Portfolio
+# VINTAGE ✝ — Digital Art Portfolio
 
-**Digital artist | AI image engineer | Visual critic**
+**Digital artist | Visual critic** 
 
-I work at the intersection of traditional digital art and AI-assisted image generation. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's visual understanding of composition, lighting, color, and style.
+I create digital art in Autodesk with a focus on composition, lighting, color theory, and visual storytelling. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's understanding of what makes a compelling image.
 
 ---
 
-## What's here
+## Portfolio
 
-| Section | What you'll find |
-|---|---|
-| [**Autodesk Originals**](./autodesk) | Digital art created in Autodesk — composition, lighting, color theory from the ground up |
-| [**AI Image Generation**](./ai-gen) | Grok, Flux, and Sora generations with full prompt + critique annotations |
-| [**Visual Critique**](./critique) | Analysis of what makes images work or fail — the skill this role is built on |
+All [**10 pieces**](./autodesk) are original digital art created in Autodesk, demonstrating:
+
+- **Composition** — framing, balance, visual hierarchy
+- **Lighting** — mood, direction, shadow work
+- **Color** — palette choices, harmony, contrast
+- **Style** — range and versatility
 
 ---
 
@@ -26,23 +27,11 @@ I work at the intersection of traditional digital art and AI-assisted image gene
 To train an AI's visual understanding, you need someone who can:
 
 - **See** what works and what doesn't in any image
-- **Articulate** why — in terms of composition, lighting, color, and style
-- **Generate** examples that demonstrate specific visual concepts
-- **Critique** with precision so the training data captures real visual nuance
+- **Articulate** why — in precise visual language
+- **Create** across different styles and techniques
+- **Critique** with specificity so training data captures real nuance
 
-I've been doing all three across traditional digital art and AI generation. That's the combination this role needs.
-
----
-
-## Quick note on tools used
-
-| Tool | How I use it |
-|---|---|
-| **Autodesk** | Digital illustration, concept art, color studies |
-| **Flux 2 Pro** | Reference-guided generation, character consistency |
-| **Sora** | AI video and image generation |
-| **Grok Imagine** | xAI's own image generation — direct experience with the product |
-| **BLIP-2** | Image captioning and visual question answering |
+Digital art fundamentals transfer directly to evaluating AI image outputs — same principles, same vocabulary.
 
 ---
 

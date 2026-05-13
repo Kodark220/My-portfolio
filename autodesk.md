@@ -1,60 +1,152 @@
 ---
 layout: default
-title: Autodesk Originals
+title: Autodesk Portfolio
 ---
 
-# 🎨 Autodesk Originals
+# 🎨 Digital Art — Autodesk Originals
 
-Digital art created in Autodesk — demonstrating fundamental visual skills from the ground up.
-
----
-
-## Piece 1
-
-<!--- Replace with your actual image --->
-<!-- ![Autodesk Piece 1](./assets/images/autodesk/piece1.jpg) -->
-
-**Composition:** [Describe — low angle, rule of thirds, leading lines, symmetry?]
-
-**Lighting:** [Describe — rim light, dramatic shadows, soft diffused?]
-
-**Color palette:** [Describe — complementary, analogous, monochromatic?]
-
-**What this demonstrates:**
-> [1-2 sentences on what this piece shows about your visual fundamentals]
+All 10 pieces created in Autodesk. Each entry includes a visual analysis demonstrating the critical eye this role requires.
 
 ---
 
-## Piece 2
+## Art-01
 
-<!--- Replace with your actual image --->
-<!-- ![Autodesk Piece 2](./assets/images/autodesk/piece2.jpg) -->
+![Art-01](./assets/images/autodesk/art-01.jpg)
 
-**Composition:** [Describe]
+**Composition:** [describe framing, focal point, visual flow]
 
-**Lighting:** [Describe]
+**Lighting:** [describe light source, mood, shadow treatment]
 
-**Color palette:** [Describe]
+**Color:** [describe palette, harmony, dominant tones]
 
-**What this demonstrates:**
-> [1-2 sentences]
+**Standout quality:** [1 sentence on what makes this piece work]
 
 ---
 
-## Piece 3 (optional)
+## Art-02
 
-<!--- Replace with your actual image --->
-<!-- ![Autodesk Piece 3](./assets/images/autodesk/piece3.jpg) -->
+![Art-02](./assets/images/autodesk/art-02.jpg)
 
-**Composition:** [Describe]
+**Composition:** [describe]
 
-**Lighting:** [Describe]
+**Lighting:** [describe]
 
-**Color palette:** [Describe]
+**Color:** [describe]
 
-**What this demonstrates:**
-> [1-2 sentences]
+**Standout quality:** [1 sentence]
 
 ---
 
-[*Back to home*](./index) | [*AI Image Generation*](./ai-gen) | [*Visual Critique*](./critique)
+## Art-03
+
+![Art-03](./assets/images/autodesk/art-03.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-04
+
+![Art-04](./assets/images/autodesk/art-04.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-05
+
+![Art-05](./assets/images/autodesk/art-05.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-06
+
+![Art-06](./assets/images/autodesk/art-06.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-07
+
+![Art-07](./assets/images/autodesk/art-07.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-08
+
+![Art-08](./assets/images/autodesk/art-08.png)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-09
+
+![Art-09](./assets/images/autodesk/art-09.jpg)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+## Art-10
+
+![Art-10](./assets/images/autodesk/art-10.png)
+
+**Composition:** [describe]
+
+**Lighting:** [describe]
+
+**Color:** [describe]
+
+**Standout quality:** [1 sentence]
+
+---
+
+[*Back to home*](./index)
