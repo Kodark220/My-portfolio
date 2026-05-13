@@ -126,11 +126,11 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 ---
 
-## AI-06 — Robotic Cat (Stern)
+## AI-06 — Robotic Cat (Drake Reject)
 
 ![AI-06](./assets/images/ai-gen/ai-06.jpg)
 
-**🧠 Prompt:** [robotic cat-like character, stern expression, angled for dynamism, bold colored background]
+**🧠 Prompt:** [robotic cat character, arms crossed in rejecting pose, orange background, stern expression, Drake meme-style]
 
 **Tool style:** Midjourney
 
@@ -138,22 +138,22 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 | Aspect | Assessment |
 |---|---|
-| **Composition** | Centered subject angled for dynamism — plain background keeps focus on character |
+| **Composition** | Centered, arms-crossed pose inspired by the Drake "reject" meme format — instantly recognizable body language |
 | **Lighting** | Soft illustrative lighting from the face direction — gives depth to robotic features |
-| **Color** | White, grey, purple, blue-green against warm yellow/orange background — complementary contrast |
+| **Color** | White, grey, purple, against warm orange background — complementary contrast |
 | **Style** | Simplified cartoon — clean lines with slight grain texture |
-| **What succeeds** | The angle + expression gives the character attitude and presence |
+| **What succeeds** | The rejecting pose + stern expression capture the Drake meme energy clearly without needing text |
 | **What I'd change** | The background color competes with the warm accents in the character — a cooler background tone would let the character pop more |
 
 **Project context:** The Beaks — robotic cat character line exploring how the collection's style translates to non-avian subjects.
 
 ---
 
-## AI-07 — Robotic Cat (Pointing)
+## AI-07 — Robotic Cat (Drake Approve)
 
 ![AI-07](./assets/images/ai-gen/ai-07.jpg)
 
-**🧠 Prompt:** [robotic cat character pointing, technological aesthetic, bold yellow background, purple and turquoise details]
+**🧠 Prompt:** [robotic cat character pointing forward, approving expression, bold yellow background, Drake meme-style counterpart]
 
 **Tool style:** Midjourney
 
@@ -161,11 +161,11 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 | Aspect | Assessment |
 |---|---|
-| **Composition** | Centered medium shot — character points toward upper right, creating directional energy |
+| **Composition** | Centered medium shot — character points forward in the Drake "approve" pose, creating direct engagement |
 | **Lighting** | Flat, even — minimal shadows, clean readability |
 | **Color** | Purple, white, grey, turquoise on warm yellow — saturated, bold, modern |
 | **Style** | Modern cartoon — clear bold lines, polished rendering with detailed textures on face |
-| **What succeeds** | The pointing gesture + saturated background creates an active, engaging composition |
+| **What succeeds** | The pointing gesture + forward energy contrasts perfectly with AI-06's crossed-arms reject — they work as a Drake meme pair |
 | **What I'd change** | The pointing arm lacks the texture detail present in the face — maintaining consistent rendering fidelity across all elements would strengthen the piece |
 
 **Project context:** The Beaks — action-pose variant for the collection's marketing and promotional assets.
