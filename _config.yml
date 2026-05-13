@@ -1,0 +1,38 @@
+# xAI Image Tutor Portfolio — VINTAGE ✝
+# GitHub Pages config
+
+title: VINTAGE ✝ — Visual Portfolio
+description: Digital art, AI image generation, and visual critique portfolio for xAI Image Tutor application
+author: VINTAGE ✝
+email: 
+
+# GitHub Pages settings
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - index.md
+  - autodesk.md
+  - ai-gen.md
+  - critique.md
+
+# Social links (optional)
+# twitter_username: 
+# github_username: Kodark220
+
+# Build settings
+show_downloads: false
+google_analytics:
+
+# GitHub Pages compatible
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
