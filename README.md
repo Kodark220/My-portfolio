@@ -1,46 +1,73 @@
-# 🎨 VINTAGE ✝ — Visual Portfolio
+# React + TypeScript + Vite
 
-Digital art, AI image generation, and visual critique portfolio for xAI Image Tutor application.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Structure
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
-portfolio/
-├── _config.yml          # Jekyll/GitHub Pages config
-├── index.md             # Home / landing page
-├── autodesk.md          # Autodesk digital art originals
-├── ai-gen.md            # AI image gen (Grok, Flux, Sora) w/ critiques
-├── critique.md          # Standalone visual critique pieces
-├── assets/
-│   └── images/
-│       ├── autodesk/    # ← Drop your Autodesk work here
-│       ├── ai-gen/      # ← Drop your AI generations here
-│       └── critique/    # ← Drop critique source images here
-├── _layouts/            # (optional) custom layouts
-├── _includes/           # (optional) custom includes
-└── README.md
+
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
+
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
-
-## How to populate
-
-1. Drop your images into the right folders under `assets/images/`
-2. Update the markdown files to reference them (uncomment the `![image](path)` lines)
-3. Fill in the annotation templates with your actual analysis
-4. Push to GitHub Pages
-
-## GitHub Pages setup
-
-```bash
-# After populating, push to GitHub:
-cd ~/portfolio
-git init
-git add .
-git commit -m "Initial portfolio"
-gh repo create vintage-portfolio --public --source=. --push
-```
-
-Your site will be live at `https://kodark220.github.io/vintage-portfolio/`
-
-## xAI Image Tutor
-
-Portfolio prepared for: https://job-boards.greenhouse.io/xai/jobs/5047544007
