@@ -195,4 +195,27 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 ---
 
+## AI-09 — GenLayer Mascot (Cyber-Cat Astronaut)
+
+![AI-09](./assets/images/ai-gen/ai-09.jpg)
+
+**🧠 Prompt:** [GenLayer mascot character, cyber-cat astronaut floating in space, white spacesuit, purple and blue glowing accents, lightbulb idea icon above head, starry background]
+
+**Tool:** Flux 2 Pro (reference-guided generation — character consistency across generations)
+
+**📝 Analysis:**
+
+| Aspect | Assessment |
+|---|---|
+| **Composition** | Dynamic diagonal floating pose against starry space backdrop — directional motion with the lightbulb idea icon creating a clear narrative focal point above the head |
+| **Lighting** | Glowing lightbulb and helmet display serve as dual light sources — soft illumination on the character's face against dark space, creating depth and atmosphere |
+| **Color** | White spacesuit with purple and blue glowing accents against deep dark space — cool tones = futuristic, tech-focused mood |
+| **Style** | Polished 3D-rendered character design with clean lines — professional mascot quality |
+| **What succeeds** | The lightbulb icon instantly communicates "innovation/idea" — the character pose is energetic without being busy |
+| **What I'd change** | The starry background could use some nebula color to match the purple/blue glow scheme — would tie the palette together more cohesively |
+
+**Project context:** Created as the mascot for **GenLayer** — an AI-powered blockchain platform. This piece required maintaining consistent character identity (colors, features, proportions) across different poses and contexts, demonstrating reference-guided generation workflow.
+
+---
+
 [*Back to home*](./index) | [*Autodesk Originals*](./autodesk)
