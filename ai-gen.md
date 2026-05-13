@@ -5,7 +5,7 @@ title: AI Image Generation
 
 # 🤖 AI-Generated Art
 
-AI-generated pieces created using Midjourney and Flux tools, developed as part of **[The Beaks](https://x.com/thebeaksart)** — an NFT art project by multidisciplinary artist Dima Kashtalyan (@DKashtalyan). The Beaks is a surreal character collection exploring the intersection of street art, fashion, and blockchain identity.
+AI-generated pieces created using **Grok Imagine** (xAI's own image model), **ChatGPT / DALL-E 3**, and **Sora** (OpenAI video→frames). Developed as part of **[The Beaks](https://x.com/thebeaksart)** — an NFT art project by multidisciplinary artist Dima Kashtalyan (@DKashtalyan). The Beaks is a surreal character collection exploring the intersection of street art, fashion, and blockchain identity.
 
 Each entry shows the full prompt-to-output workflow with critique — exactly the kind of annotation work this role requires for training Grok's image understanding. The QR code elements, present across multiple pieces, are a deliberate design motif for the collection's token-gated access and character identity system.
 
@@ -17,7 +17,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [robot cat scientist pouring glowing liquid, clean illustration, white background, purple and teal accents]
 
-**Tool style:** Midjourney / Flux
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -40,7 +40,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [anthropomorphic flamingo wearing fashion accessories, QR code patterns, black background]
 
-**Tool style:** Midjourney
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -63,7 +63,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [toucan-like creature/avatar, sophisticated look, QR codes, space/star background, neon accents]
 
-**Tool style:** Midjourney
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -86,7 +86,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [fashionable anthropomorphic flamingo, symmetrical close-up portrait, QR code textures, black background]
 
-**Tool style:** Midjourney
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -109,7 +109,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [abstract representation of text/data forming a face, grid-like arrangement, cyberpunk aesthetic, hot pink accents]
 
-**Tool style:** Midjourney
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -132,7 +132,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [robotic cat character, arms crossed in rejecting pose, orange background, stern expression, Drake meme-style]
 
-**Tool style:** Midjourney
+**Tool:** ChatGPT / DALL-E 3
 
 **📝 Analysis:**
 
@@ -155,7 +155,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [robotic cat character pointing forward, approving expression, bold yellow background, Drake meme-style counterpart]
 
-**Tool style:** Midjourney
+**Tool:** ChatGPT / DALL-E 3
 
 **📝 Analysis:**
 
@@ -178,7 +178,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [large armored character holding glowing crystal, close-up filling the frame, comic book style, warm earthy tones]
 
-**Tool style:** Midjourney
+**Tool:** Grok Imagine
 
 **📝 Analysis:**
 
@@ -201,7 +201,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [GenLayer mascot character, cyber-cat astronaut floating in space, white spacesuit, purple and blue glowing accents, lightbulb idea icon above head, starry background]
 
-**Tool:** Flux 2 Pro (reference-guided generation — character consistency across generations)
+**Tool:** Sora (OpenAI video generation — extracted frame)
 
 **📝 Analysis:**
 
@@ -224,7 +224,7 @@ Each entry shows the full prompt-to-output workflow with critique — exactly th
 
 **🧠 Prompt:** [mushroom-headed character with white spots, small robot cat perched on mushroom top, Vintage 3030 patch, brown collared shirt with glowing neon symbol, reimagined as futuristic space explorer with purple/blue glowing accents, lightbulb idea icon, starry space background]
 
-**Tool:** Flux 2 Pro (reference-guided generation — character consistency)
+**Tool:** Sora (OpenAI video generation — extracted frame)
 
 **📝 Analysis:**
 
