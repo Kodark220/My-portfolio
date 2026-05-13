@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-# VINTAGE ✝ — Visual Portfolio
+# VINTAGE  — Visual Portfolio
 
-**Digital artist | AI image engineer | Visual critic**
-
-I work in both traditional digital art (Autodesk) and AI-assisted image generation. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's visual understanding of composition, lighting, color, and style.
+Digital artist, AI image engineer, and visual critic. I work in both traditional digital art (Autodesk) and AI assisted image generation. This portfolio is my application for the **Image Tutor** role at xAI — training Grok's visual understanding of composition, lighting, color, and style.
 
 ---
 
@@ -15,10 +13,8 @@ I work in both traditional digital art (Autodesk) and AI-assisted image generati
 
 | Section | What's inside |
 |---|---|
-| [**🎨 Autodesk Originals**](./autodesk) | 10 pieces of original digital art — composition, lighting, color theory from the ground up |
-| [**🤖 AI-Generated Art**](./ai-gen) | 8 AI pieces with full prompt→output→critique annotations |
-
----
+| Autodesk Originals | 10 pieces of original digital art showing composition, lighting, and color theory from the ground up |
+| AI Generated Art | 10 AI pieces with full prompt to output critique annotations |
 
 ## Skills demonstrated
 
@@ -32,21 +28,20 @@ I work in both traditional digital art (Autodesk) and AI-assisted image generati
 - Prompt engineering for specific visual outcomes
 - Iteration and refinement workflow
 - Critical analysis of what works and what doesn't
-- Cross-tool fluency (Flux, Midjourney-style, Grok Imagine)
+- Cross tool fluency (Grok Imagine, ChatGPT, Sora)
 
 ---
 
 ## Why this matters for Grok
 
-To train an AI's visual understanding, you need someone who can:
-
-- **See** what works and what doesn't in any image
-- **Articulate** why — in terms of composition, lighting, color, and style
-- **Generate** examples that demonstrate specific visual concepts
-- **Critique** with precision so training data captures real visual nuance
+To train an AI's visual understanding, you need someone who can see what works and what doesn't in any image, articulate why in terms of composition, lighting, color, and style, generate examples that demonstrate specific visual concepts, and critique with precision so training data captures real visual nuance.
 
 Each piece in this portfolio includes a written analysis demonstrating that critical eye.
 
 ---
 
-*Portfolio prepared for xAI Image Tutor application — [Apply here](https://job-boards.greenhouse.io/xai/jobs/5047544007)*
+[Autodesk Originals](./autodesk) | [AI Generated Art](./ai-gen)
+
+---
+
+*Portfolio prepared for xAI Image Tutor application*
