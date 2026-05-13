@@ -5,7 +5,9 @@ title: AI Image Generation
 
 # 🤖 AI-Generated Art
 
-AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools. Each entry shows the full prompt-to-output workflow with critique — exactly the kind of annotation work this role requires for training Grok's image understanding.
+AI-generated pieces created using Midjourney and Flux tools, developed as part of **[The Beaks](https://x.com/thebeaksart)** — an NFT art project by multidisciplinary artist Dima Kashtalyan (@DKashtalyan). The Beaks is a surreal character collection exploring the intersection of street art, fashion, and blockchain identity.
+
+Each entry shows the full prompt-to-output workflow with critique — exactly the kind of annotation work this role requires for training Grok's image understanding. The QR code elements, present across multiple pieces, are a deliberate design motif for the collection's token-gated access and character identity system.
 
 ---
 
@@ -26,7 +28,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Limited palette: white, purple, teal/cyan, black — high contrast, visually sharp |
 | **Style** | Clean cartoon illustration with bold outlines |
 | **What succeeds** | The glowing liquid creates a clear focal point and narrative hook |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The white background, while clean, leaves the character floating — a subtle ground shadow or environmental element would anchor the scene |
+
+**Project context:** The Beaks character development — exploring scientist/engineer archetypes for the collection's lore.
 
 ---
 
@@ -46,8 +50,10 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Lighting** | Even, flat artificial light — no strong shadows, clean readability |
 | **Color** | Black, white, and pink — high-contrast and slightly surreal |
 | **Style** | Flat graphic illustration with integrated texture work (QR codes as design element) |
-| **What succeeds** | The QR code integration as fashion texture is a creative concept |
-| **What I'd change** | [your critique here] |
+| **What succeeds** | The QR code integration as fashion texture is a creative concept — functional design as visual language |
+| **What I'd change** | The flat lighting flattens the form — a rim light from one side would define the beak's shape and add depth |
+
+**Project context:** The Beaks — QR codes serve as the collection's identity system. Holders scan to verify authenticity and unlock access.
 
 ---
 
@@ -68,7 +74,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Cool purple/teal mix with bright pink accents against black/white — futuristic, psychedelic |
 | **Style** | NFT art style — highly stylized, detailed, digital/tech aesthetic |
 | **What succeeds** | The neon accents create depth and a "premium" feel |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The star background competes with the character's silhouette — dimming the background elements would push the subject forward |
+
+**Project context:** The Beaks — this piece explores the "celestial" variant of the character set, using space motifs to signify rarity tier.
 
 ---
 
@@ -89,7 +97,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Black, white, and pink — limited palette, high impact |
 | **Style** | Contemporary surrealism — QR codes as generative texture, blocky rendering |
 | **What succeeds** | The symmetry + high contrast makes it instantly readable and memorable |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The blocky texture from the QR encoding could be softened at the edges — the face reads clearly but the neck blends into background |
+
+**Project context:** The Beaks — this is a core character variant. The symmetry approach makes it work as both a standalone piece and a PFP.
 
 ---
 
@@ -110,7 +120,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Black and white with vibrant hot pink accents — cyberpunk palette |
 | **Style** | Glitch art / data-driven aesthetic — code-based visual language |
 | **What succeeds** | The face emerging from data/text is conceptually strong — blends humanity with information |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The face reads more as an optical illusion than a clear form — sharper delineation of the facial features would make the "emergent face" concept hit harder |
+
+**Project context:** The Beaks — abstract/data-driven variant exploring the collection's underlying theme of identity as information.
 
 ---
 
@@ -131,7 +143,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | White, grey, purple, blue-green against warm yellow/orange background — complementary contrast |
 | **Style** | Simplified cartoon — clean lines with slight grain texture |
 | **What succeeds** | The angle + expression gives the character attitude and presence |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The background color competes with the warm accents in the character — a cooler background tone would let the character pop more |
+
+**Project context:** The Beaks — robotic cat character line exploring how the collection's style translates to non-avian subjects.
 
 ---
 
@@ -152,7 +166,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Purple, white, grey, turquoise on warm yellow — saturated, bold, modern |
 | **Style** | Modern cartoon — clear bold lines, polished rendering with detailed textures on face |
 | **What succeeds** | The pointing gesture + saturated background creates an active, engaging composition |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The pointing arm lacks the texture detail present in the face — maintaining consistent rendering fidelity across all elements would strengthen the piece |
+
+**Project context:** The Beaks — action-pose variant for the collection's marketing and promotional assets.
 
 ---
 
@@ -173,7 +189,9 @@ AI-generated pieces created using [Flux / Grok Imagine / Midjourney-style] tools
 | **Color** | Warm earthy tones — oranges, browns, purples with bright highlights |
 | **Style** | Comic book — heavy linework, bold colors, animated feel |
 | **What succeeds** | The crystal glow acts as both light source and narrative focus — draws the eye, gives purpose |
-| **What I'd change** | [your critique here] |
+| **What I'd change** | The armor details on the left side get lost in shadow — a subtle bounce light from the crystal side would reveal more form |
+
+**Project context:** The Beaks — legendary/rare variant. The glowing crystal ties into the collection's lore around power sources and token utility.
 
 ---
 
